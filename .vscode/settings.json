@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "video45memorylayoutofCPRGRAMMING.C": "cpp",
+        "video45memoryallocation.C": "cpp"
+    }
+}
